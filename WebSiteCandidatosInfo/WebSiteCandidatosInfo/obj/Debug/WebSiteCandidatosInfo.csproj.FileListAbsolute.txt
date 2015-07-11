@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\bin\WebSiteCandidatosInfo.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\bin\WebSiteCandidatosInfo.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\obj\Debug\WebSiteCandidatosInfo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\obj\Debug\WebSiteCandidatosInfo.dll.licenses
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\obj\Debug\WebSiteCandidatosInfo.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\WebSiteCandidatosInfo\WebSiteCandidatosInfo\obj\Debug\WebSiteCandidatosInfo.pdb

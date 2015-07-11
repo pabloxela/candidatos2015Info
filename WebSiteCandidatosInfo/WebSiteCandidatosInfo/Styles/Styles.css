@@ -1,0 +1,51 @@
+﻿body 
+{
+    margin:0px;
+    background-color:black;
+    overflow:hidden;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.sidePanel
+{
+    background-color: Black;
+    width: 299px;
+    float: left;
+    border-right: 1px solid black
+}
+.sideScrollPanel
+{
+	background-color: #E2E5EA;
+}
+.content
+{
+	background-color: #E2E5EA;
+	border-radius: 2px 2px 0 0;
+    float: left;
+}
+.content > table
+{
+	background-color: Black;
+}
+.grid
+{
+	background-color: #E2E5EA!important;
+	margin: 30px;
+}
+.rightToolbar, 
+.leftToolbar
+{
+	border-radius: 2px 2px 0 0;
+	background: url("../Images/ToolbarBack.png") repeat-x;
+	height: 44px;
+	text-align: center;
+}
+.leftToolbar
+{
+	height: 34px;
+	padding-top: 10px;
+}
+.caption
+{
+	font-size: 18px;
+	font-weight: bold;
+}
